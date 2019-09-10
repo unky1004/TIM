@@ -625,6 +625,13 @@ defaultproperties
 	DefaultItems.Add( "KFGame.KFWeapDef_HuskCannon")
 	DefaultItems.Add( "KFGame.KFWeapDef_AF2011Dual")
 	DefaultItems.Add( "KFGame.KFWeapDef_Eviscerator")
+	DefaultItems.Add( "KFGame.KFWeapDef_ChiappaRhino")
+	DefaultItems.Add( "KFGame.KFWeapDef_Dual_ChiappaRhino")
+	DefaultItems.Add( "KFGame.KFWeapDef_HRG_SW_500")
+	DefaultItems.Add( "KFGame.KFWeapDef_Dual_HRG_SW_500")
+	DefaultItems.Add( "KFGame.KFWeapDef_HRG_Healthrower")
+	DefaultItems.Add( "KFGame.KFWeapDef_HRG_Nailgun_PDW")
+	DefaultItems.Add( "KFGame.KFWeapDef_Ion_Sword")
 
 //	DefaultItems.Add( "KFGame.KFWeapDef_Grenade_Berserker")
 //	DefaultItems.Add( "KFGame.KFWeapDef_Grenade_Commando")
