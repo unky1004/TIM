@@ -285,7 +285,8 @@ private final function AddNewItemsToConfig()
 		CustomItems.AddItem( "WeaponPack.KFWeapDef_Reaper");
 		CustomItems.AddItem( "WeaponPack.KFWeapDef_Scythe");
 		CustomItems.AddItem( "WeaponPack.KFWeapDef_TKB");
-			
+
+	case 8:	
 		CustomItems.AddItem( "KFGame.KFWeapDef_ChiappaRhino");
 		CustomItems.AddItem( "KFGame.KFWeapDef_Dual_ChiappaRhino");
 		CustomItems.AddItem( "KFGame.KFWeapDef_HRG_SW_500");
@@ -293,9 +294,7 @@ private final function AddNewItemsToConfig()
 		CustomItems.AddItem( "KFGame.KFWeapDef_HRG_Healthrower");
 		CustomItems.AddItem( "KFGame.KFWeapDef_HRG_Nailgun_PDW");
 		CustomItems.AddItem( "KFGame.KFWeapDef_Ion_Sword");	
-
-
-	case 8:		
+			
 		`LogInfo( "Updating config");
 		SaveSettings();
 	}
